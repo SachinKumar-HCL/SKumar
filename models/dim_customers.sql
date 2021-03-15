@@ -2,7 +2,6 @@
     materialized="table"
 )}}
 
-dim_customers
 
 with customers as (
 
